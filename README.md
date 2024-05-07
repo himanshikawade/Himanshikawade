@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi 
+--><h1 align="center">
 👋, I'm Himanshi Narendra Kawade</h1>
 
 - 🔭 I’m currently Pursing my B.Tech From **S.B.Jain Institue of Technology,Managemt & Research Nagpur**
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Data Science,Panadas,python**
 - 
-<h3 align="center">As a dedicated student specializing in Artificial Intelligence and Data Science, I bring to the table a robust skill set honed across various disciplines. My expertise spans the realms of machine learning, encompassing both traditional statistical approaches and cutting-edge algorithms. Proficient in data analysis, I have mastered techniques to dissect complex datasets, uncover patterns, and derive meaningful conclusions. Moreover, my proficiency extends to database management, with a strong command of SQL, enabling seamless data retrieval, manipulation, and organization. Additionally, I am adept at leveraging visualization tools such as Power BI and Tableau to create captivating and insightful representations of data, facilitating clear communication of findings to diverse audiences. In the realm of programming, Python stands as my primary language, serving as the backbone for developing robust machine learning models, conducting data analysis, and orchestrating web development projects. Beyond technical skills, my passion for innovation fuels a relentless pursuit of knowledge and skill enhancement. I am committed to staying abreast of the latest advancements in AI, data science, and technology, actively engaging in continuous learning endeavors. Equipped with a fervent drive for excellence and a penchant for innovation, I am poised to make impactful contributions in any capacity at the dynamic intersection of AI, data science, and technology.</h3>
+<h3 >As a dedicated student specializing in Artificial Intelligence and Data Science, I bring to the table a robust skill set honed across various disciplines. My expertise spans the realms of machine learning, encompassing both traditional statistical approaches and cutting-edge algorithms. Proficient in data analysis, I have mastered techniques to dissect complex datasets, uncover patterns, and derive meaningful conclusions. Moreover, my proficiency extends to database management, with a strong command of SQL, enabling seamless data retrieval, manipulation, and organization. Additionally, I am adept at leveraging visualization tools such as Power BI and Tableau to create captivating and insightful representations of data, facilitating clear communication of findings to diverse audiences. In the realm of programming, Python stands as my primary language, serving as the backbone for developing robust machine learning models, conducting data analysis, and orchestrating web development projects. Beyond technical skills, my passion for innovation fuels a relentless pursuit of knowledge and skill enhancement. I am committed to staying abreast of the latest advancements in AI, data science, and technology, actively engaging in continuous learning endeavors. Equipped with a fervent drive for excellence and a penchant for innovation, I am poised to make impactful contributions in any capacity at the dynamic intersection of AI, data science, and technology.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
